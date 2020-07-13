@@ -7,6 +7,7 @@ TODO:
 - Implement skewed distribution of initial neurons
 - inferring connectivity from just nodes
 - Apply firing rates taken from probability distributions to nodes 
+- What connectivity patterns are conducive to power laws?
 
 Resources:
 - "Dynamical Systems on Networks: A Tutorial" (Porter, Gleeson)
@@ -15,3 +16,6 @@ Resources:
 - "Spin glasses and Complexity" (Stein, Newman)
 - "The Effect of Signaling Latencies and Node Refractory States on the Dynamics of Networks" (Silva)
 - ["Spectral graph theory of brain oscillations"](https://onlinelibrary.wiley.com/doi/10.1002/hbm.24991) 
+
+Libraries:
+- https://graus.nu/thesis/python-graphs-and-visualizations/
